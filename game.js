@@ -92,7 +92,7 @@ function Character() {
 }
 
 // Class Kamehameha.
-function Kamehameha() {
+function Shoot() {
  // Properties.
  this.image = new Image(); this.image.src = "Imagenes/kamehameha.gif";
  this.xPos = 900; this.yPos = 700;
